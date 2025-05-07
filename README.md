@@ -8,6 +8,8 @@
   - [TimerChess](https://github.com/Orso-bit/TimerChess/tree/main) 
 - <b>iOS mobile application (UserNotification, SwiftData, SwiftUI)</b>
   - [LumiShift](https://github.com/Mamba2301/ImpostorSyndromeAl_final/tree/main)
+- <b>iOS mobile application (PhotosUI, UserNotification, SwiftData, SwiftUI)</b>
+  - [Quinto](https://github.com/Orso-bit/Quinto)
 - <b>Game mobile application (Unity Engine, C#)</b>
   - [Molly's Canvas](https://github.com/Githubense/Molly)
 
