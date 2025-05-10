@@ -1,16 +1,23 @@
 <h1>Hi, I'm Giovanni Di Fenza! <br/><a href="https://github.com/Orso-bit">Game and iOS developer</a>, </h1>
 
+<h2>Who am I?</h2>
+<ul>
+  <li>🧑🏼‍💻 I'm currently working at Apple Developer Academy as a Programmer</li>
+  <li>💬 Ask me about <b>C#, Swift</b></li>
+  <li>📋 Know my experience <a href="https://www.linkedin.com/in/giovanni-di-fenza-081873208/" target="_blank">LinkedIn</a></li>
+</ul>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>iOS mobile application (AVFoundation, Core ML, NaturalLanguage, Speech, SwiftData, SwiftUI)</b>
+- iOS mobile application <b>(AVFoundation, Core ML, NaturalLanguage, Speech, SwiftData, SwiftUI)</b>
   - [FeelRec](https://github.com/Orso-bit/FeelRec)
-- <b>iOS mobile application (Foundation, SwiftUI)</b>
+- iOS mobile application <b>(Foundation, SwiftUI)</b>
   - [TimerChess](https://github.com/Orso-bit/TimerChess/tree/main) 
-- <b>iOS mobile application (UserNotification, SwiftData, SwiftUI)</b>
+- iOS mobile application <b>(UserNotification, SwiftData, SwiftUI)</b>
   - [LumiShift](https://github.com/Mamba2301/ImpostorSyndromeAl_final/tree/main)
-- <b>iOS mobile application (PhotosUI, UserNotification, SwiftData, SwiftUI)</b>
+- iOS mobile application <b>(PhotosUI, UserNotification, SwiftData, SwiftUI)</b>
   - [Quinto](https://github.com/Orso-bit/Quinto)
-- <b>Game mobile application (Unity Engine, C#)</b>
+- Game mobile application <b>(Unity Engine, C#)</b>
   - [Molly's Canvas](https://github.com/Githubense/Molly)
 
 <h2> 🤳 Connect with me:</h2>
