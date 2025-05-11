@@ -1,4 +1,4 @@
-<h1>Hi, I'm Giovanni Di Fenza! <br/><a href="https://github.com/Orso-bit">Game and iOS developer</a>, </h1>
+<h1>Hi, I'm Giovanni Di Fenza!</h1>
 
 <h2>🙋🏼 Who am I?</h2>
 <ul>
