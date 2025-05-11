@@ -22,11 +22,15 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gianni Di Fenza | Instagram" width="48px" src="https://img.icons8.com/color/48/instagram-new.png" />][instagram]
+[<img align="left" alt="Gianni Di Fenza | LinkedIn" width="48px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
+[<img align="left" alt="Gianni Di Fenza | Gmail" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
+[<img align="left" alt="Gianni Di Fenza | GitHub" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [instagram]: https://www.instagram.com/giannidifenzaa/
 [linkedin]: https://www.linkedin.com/in/giovanni-di-fenza-081873208/
+[gmail]: mailto:giovannijr2000@gmail.com
+[github]: https://github.com/Orso-bit
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
