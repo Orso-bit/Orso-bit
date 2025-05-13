@@ -23,6 +23,16 @@
   - [Quinto](https://github.com/Orso-bit/Quinto)
 - 🎮 Game mobile application <b>(Unity Engine, C#)</b>
   - [Molly's Canvas](https://github.com/Githubense/Molly)
+ 
+<h2>🛠️ Skills and Technologies</h2>
+<ul>
+  <li><b>Languages:</b> C#, Swift</li>
+  <li><b>Mobile Development:</b> SwiftUI, UIKit, SwiftData, Foundation</li>
+  <li><b>Media & Interaction:</b> AVFoundation, PhotosUI, UserNotifications, Speech</li>
+  <li><b>AI & Natural Language:</b> Core ML, NaturalLanguage, Create ML</li>
+  <li><b>Game Development:</b> Unity Engine</li>
+  <li><b>Tools & Others:</b> Xcode, Git, GitHub, Figma, Visual Studio Code</li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
