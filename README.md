@@ -1,6 +1,10 @@
 <h1>Hi, I'm Giovanni Di Fenza!</h1>
 
-<h2>🙋🏼 Who am I?</h2>
+<h2>🙋🏼 About me</h2>
+<p>
+  I'm a passionate developer with a strong interest in mobile technologies, game development, and digital tools for well-being.
+  I enjoy working on meaningful projects.
+</p>
 <ul>
   <li>🧑🏼‍💻 I'm currently working at Apple Developer Academy as a Programmer</li>
   <li>💬 Ask me about <b>C#, Swift</b></li>
@@ -22,15 +26,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Gianni Di Fenza | Instagram" width="48px" src="https://img.icons8.com/color/48/instagram-new.png" />][instagram]
-[<img align="left" alt="Gianni Di Fenza | LinkedIn" width="48px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
-[<img align="left" alt="Gianni Di Fenza | Gmail" width="48px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
-[<img align="left" alt="Gianni Di Fenza | GitHub" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[instagram]: https://www.instagram.com/giannidifenzaa/
-[linkedin]: https://www.linkedin.com/in/giovanni-di-fenza-081873208/
-[gmail]: mailto:giovannijr2000@gmail.com
-[github]: https://github.com/Orso-bit
+📸 Instagram: [giannidifenzaa](https://www.instagram.com/giannidifenzaa/)  
+💼 LinkedIn: [giovanni-di-fenza-081873208](https://www.linkedin.com/in/giovanni-di-fenza-081873208/)  
+📧 Email: [giovannijr2000@gmail.com](mailto:giovannijr2000@gmail.com)  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
