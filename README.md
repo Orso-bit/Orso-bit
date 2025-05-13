@@ -13,18 +13,37 @@
 
 <h2>🧑🏼‍💻 Software Development Projects:</h2>
 
-- 📱 iOS mobile application <b>(AVFoundation, Core ML, NaturalLanguage, Speech, SwiftData, SwiftUI)</b>
-  - [FeelRec](https://github.com/Orso-bit/FeelRec)
-- 📱 iOS mobile application <b>(Foundation, SwiftUI)</b>
-  - [TimerChess](https://github.com/Orso-bit/TimerChess/tree/main) 
-- 📱 iOS mobile application <b>(UserNotification, SwiftData, SwiftUI)</b>
-  - [LumiShift](https://github.com/Mamba2301/ImpostorSyndromeAl_final/tree/main)
-- 📱 iOS mobile application <b>(PhotosUI, UserNotification, SwiftData, SwiftUI)</b>
-  - [Quinto](https://github.com/Orso-bit/Quinto)
-- 🎮 Game mobile application <b>(Unity Engine, C#)</b>
-  - [Molly's Canvas](https://github.com/Githubense/Molly)
+<h3>📱 iOS Mobile Application</h3>
+<ul>
+  <li>
+    <a href="https://github.com/Orso-bit/FeelRec" target="_blank">FeelRec</a>
+    <br><i>(AVFoundation, Core ML, NaturalLanguage, Speech, SwiftData, SwiftUI)</i><br>
+  </li>
+  <li>
+    <a href="https://github.com/Orso-bit/TimerChess/tree/main" target="_blank">TimerChess</a>
+    <br><i>(Foundation, SwiftUI)</i><br>
+  </li>
+  <li>
+    <a href="https://github.com/Mamba2301/ImpostorSyndromeAl_final/tree/main" target="_blank">LumiShift</a>
+    <br><i>(PhotosUI, UserNotification, SwiftData, SwiftUI)</i><br>
+  </li>
+  <li>
+    <a href="https://github.com/Orso-bit/Quinto" target="_blank">Quinto</a>
+    <br><i>(PhotosUI, UserNotification, SwiftData, SwiftUI)</i><br>
+  </li>
+</ul>
+
+<h3>🎮 Game Mobile Application</h3>
+
+<ul>
+  <li>
+    <a href="https://github.com/Githubense/Molly" target="_blank">Molly's Canvas</a>
+    <br><i>(Unity Engine, C#)</i><br>
+  </li>
+</ul>
  
 <h2>🛠️ Skills and Technologies</h2>
+
 <ul>
   <li><b>Languages:</b> C#, Swift</li>
   <li><b>Mobile Development:</b> SwiftUI, UIKit, SwiftData, Foundation</li>
@@ -36,9 +55,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-📸 Instagram: [giannidifenzaa](https://www.instagram.com/giannidifenzaa/)  
-💼 LinkedIn: [giovanni-di-fenza-081873208](https://www.linkedin.com/in/giovanni-di-fenza-081873208/)  
-📧 Email: [giovannijr2000@gmail.com](mailto:giovannijr2000@gmail.com)  
+<p>📸 Instagram: <a href="https://www.instagram.com/giannidifenzaa/" target="_blank">giannidifenzaa</a></p>
+<p>💼 LinkedIn: <a href="https://www.linkedin.com/in/giovanni-di-fenza-081873208/" target="_blank">giovanni-di-fenza-081873208</a></p>
+<p>📧 Email: <a href="mailto:giovannijr2000@gmail.com">giovannijr2000@gmail.com</a></p>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
