@@ -53,6 +53,7 @@
   <li><b>Mobile Development:</b> SwiftUI, UIKit, SwiftData, Foundation</li>
   <li><b>Media & Interaction:</b> AVFoundation, PhotosUI, UserNotifications, Speech</li>
   <li><b>AI & Natural Language:</b> Core ML, NaturalLanguage, Create ML</li>
+  <li><b>Augmented Reality:</b> ARKit, RealityKit</li>
   <li><b>Game Development:</b> Unity Engine</li>
   <li><b>Tools & Others:</b> Xcode, Git, GitHub, Figma, Visual Studio Code</li>
 </ul>
