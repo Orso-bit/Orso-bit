@@ -31,6 +31,10 @@
     <a href="https://github.com/Orso-bit/Quinto" target="_blank">Quinto</a>
     <br><i>(PhotosUI, UserNotification, SwiftData, SwiftUI)</i><br>
   </li>
+  <li>
+    <a href="https://github.com/Orso-bit/VeeTa" target="_blank">VeeTA - tree meters</a>
+    <br><i>(Arkit, Combine, CoreMotion, Foundation, RealityKit, SwiftData, SwiftUI)</i><br>
+  </li>
 </ul>
 
 <h3>🎮 Game Mobile Application</h3>
