@@ -32,7 +32,7 @@
     <br><i>(PhotosUI, UserNotification, SwiftData, SwiftUI)</i><br>
   </li>
   <li>
-    <a href="https://github.com/Orso-bit/VeeTa" target="_blank">VeeTA - tree meters</a>
+    <a href="https://github.com/Orso-bit/VeeTa" target="_blank">VeeTA - tree meter</a>
     <br><i>(Arkit, Combine, CoreMotion, Foundation, RealityKit, SwiftData, SwiftUI)</i><br>
   </li>
 </ul>
