@@ -2,12 +2,14 @@
 
 <h2>🙋🏼 About me</h2>
 <p>
-  I'm a passionate developer with a strong interest in mobile technologies, game development, and digital tools for well-being.
-  I enjoy working on meaningful projects.
+  🎨 UX Designer & Developer with a background in psychology and neurocognitive sciences.
+  I’m passionate about creating human-centered digital experiences that combine design, technology, and cognitive science to improve usability, engagement, and well-being.
+
+  💡 I enjoy working on projects at the intersection of UX/UI design, mobile technologies, game development, and digital health tools.
 </p>
 <ul>
-  <li>🧑🏼‍💻 I'm currently working at Apple Developer Academy as a Programmer</li>
-  <li>💬 Ask me about <b>C#, Swift</b></li>
+  <li>🧑🏼‍💻 Front-end Developer and UX designer at Apple Developer Academy</li>
+  <li>UX/UI, C#, Swift, Unity, Human-Centered Design</b></li>
   <li>📋 Know my experience <a href="https://www.linkedin.com/in/giovanni-di-fenza-081873208/" target="_blank">LinkedIn</a></li>
 </ul>
 
@@ -46,16 +48,17 @@
   </li>
 </ul>
  
-<h2>🛠️ Skills and Technologies</h2>
+<h2>🛠️ Core Skills</h2>
 
 <ul>
-  <li><b>Languages:</b> C#, Swift</li>
-  <li><b>Mobile Development:</b> SwiftUI, UIKit, SwiftData, Foundation</li>
+  <li><b>UX & Design:</b> Human-Centered Design, UI/UX Prototyping, Wireframing, Design Thinking, Usability Testing</li>
+  <li><b>Prototyping & Tools:</b> Figma, SketchUp, Adobe XD</li>
+  <li><b>Mobile Development:</b> Swift, SwiftUI, UIKit, SwiftData</li>
+  <li><b>Game & VR Development:</b> Unity Engine, Vizard</li>
+  <li><b>AI & Cognitive Tech:</b> Core ML, NaturalLanguage, Create ML, Eye-tracking, PsychoPy</li>
   <li><b>Media & Interaction:</b> AVFoundation, PhotosUI, UserNotifications, Speech</li>
-  <li><b>AI & Natural Language:</b> Core ML, NaturalLanguage, Create ML</li>
-  <li><b>Augmented Reality:</b> ARKit, RealityKit</li>
-  <li><b>Game Development:</b> Unity Engine</li>
-  <li><b>Tools & Others:</b> Xcode, Git, GitHub, Figma, Visual Studio Code</li>
+  <li><b>Collaboration & Tools:</b> Git, GitHub, Xcode, Visual Studio Code</li>
+  <li><b>Languages:</b> C#, Swift, Python, Matlab</li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
