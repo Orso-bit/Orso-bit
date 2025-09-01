@@ -9,7 +9,7 @@
 </p>
 <ul>
   <li>🧑🏼‍💻 Front-end Developer and UX designer at Apple Developer Academy</li>
-  <li>UX/UI, C#, Swift, Unity, Human-Centered Design</b></li>
+  <li>UX/UI, Human-Centered Design, C#, Swift, Unity, HTML, CSS</b></li>
   <li>📋 Know my experience <a href="https://www.linkedin.com/in/giovanni-di-fenza-081873208/" target="_blank">LinkedIn</a></li>
 </ul>
 
