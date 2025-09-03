@@ -52,7 +52,7 @@
 
 <ul>
   <li><b>UX & Design:</b> Human-Centered Design, UI/UX Prototyping, Wireframing, Design Thinking, Usability Testing</li>
-  <li><b>Prototyping & Tools:</b> Figma, SketchUp, Adobe XD</li>
+  <li><b>Prototyping & Tools:</b> Figma, Sketch, SketchUp, Blender</li>
   <li><b>Mobile Development:</b> Swift, SwiftUI, UIKit, SwiftData</li>
   <li><b>Game & VR Development:</b> Unity Engine, Vizard</li>
   <li><b>AI & Cognitive Tech:</b> Core ML, NaturalLanguage, Create ML, Eye-tracking, PsychoPy</li>
