@@ -2,16 +2,8 @@
 
 <h2>🙋🏼 About me</h2>
 <p>
-  🎨 UX Designer & Developer with a background in psychology and neurocognitive sciences.
-  I’m passionate about creating human-centered digital experiences that combine design, technology, and cognitive science to improve usability, engagement, and well-being.
-
-  💡 I enjoy working on projects at the intersection of UX/UI design, mobile technologies, game development, and digital health tools.
+UX Designer & Developer with an academic background in Human-Computer Interaction and Neurocognitive Sciences. During my time at the Apple Developer Academy, I transformed theoretical knowledge into practical solutions, delivering multiple projects with multidisciplinary teams and collaborating with external companies. My work spans UX research, prototyping, mobile app development, and cognitive-driven design, demonstrating both technical expertise and user-centered problem solving. I’m passionate about creating human-centered digital experiences that combine design, technology, and cognitive science to improve usability, engagement, and well-being.
 </p>
-<ul>
-  <li>🧑🏼‍💻 Front-end Developer and UX designer at Apple Developer Academy</li>
-  <li>UX/UI, Human-Centered Design, C#, Swift, Unity, HTML, CSS</b></li>
-  <li>📋 Know my experience <a href="https://www.linkedin.com/in/giovanni-di-fenza-081873208/" target="_blank">LinkedIn</a></li>
-</ul>
 
 <h2>🧑🏼‍💻 Software Development Projects:</h2>
 
