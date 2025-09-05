@@ -15,38 +15,56 @@
 
 <h2>🧑🏼‍💻 Software Development Projects:</h2>
 
-<h3>📱 iOS Mobile Application</h3>
-<ul>
-  <li>
-    <a href="https://github.com/Orso-bit/FeelRec" target="_blank">FeelRec</a>
-    <br><i>(AVFoundation, Core ML, NaturalLanguage, Speech, SwiftData, SwiftUI)</i><br>
-  </li>
-  <li>
-    <a href="https://github.com/Orso-bit/TimerChess/tree/main" target="_blank">TimerChess</a>
-    <br><i>(Foundation, SwiftUI)</i><br>
-  </li>
-  <li>
-    <a href="https://github.com/Mamba2301/ImpostorSyndromeAl_final/tree/main" target="_blank">LumiShift</a>
-    <br><i>(PhotosUI, UserNotification, SwiftData, SwiftUI)</i><br>
-  </li>
-  <li>
-    <a href="https://github.com/Orso-bit/Quinto" target="_blank">Quinto</a>
-    <br><i>(PhotosUI, UserNotification, SwiftData, SwiftUI)</i><br>
-  </li>
-  <li>
-    <a href="https://github.com/Orso-bit/VeeTa" target="_blank">VeeTA - tree meter</a>
-    <br><i>(Arkit, Combine, CoreMotion, Foundation, RealityKit, SwiftData, SwiftUI)</i><br>
-  </li>
-</ul>
+<h3>📱 iOS Mobile Applications</h3>
 
-<h3>🎮 Game Mobile Application</h3>
+<table>
+  <thead>
+    <tr>
+      <th>App</th>
+      <th>Packages / Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Orso-bit/FeelRec" target="_blank">FeelRec</a></td>
+      <td>AVFoundation, Core ML, NaturalLanguage, Speech, SwiftData, SwiftUI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Orso-bit/TimerChess/tree/main" target="_blank">TimerChess</a></td>
+      <td>Foundation, SwiftUI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Mamba2301/ImpostorSyndromeAl_final/tree/main" target="_blank">LumiShift</a></td>
+      <td>PhotosUI, UserNotification, SwiftData, SwiftUI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Orso-bit/Quinto" target="_blank">Quinto</a></td>
+      <td>PhotosUI, UserNotification, SwiftData, SwiftUI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Orso-bit/VeeTa" target="_blank">VeeTA - tree meter</a></td>
+      <td>ARKit, Combine, CoreMotion, Foundation, RealityKit, SwiftData, SwiftUI</td>
+    </tr>
+  </tbody>
+</table>
 
-<ul>
-  <li>
-    <a href="https://github.com/Githubense/Molly" target="_blank">Molly's Canvas</a>
-    <br><i>(Unity Engine, C#)</i><br>
-  </li>
-</ul>
+
+<h3>🎮 Game Mobile Applications</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>App</th>
+      <th>Packages / Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Githubense/Molly" target="_blank">Molly's Canvas</a></td>
+      <td>Unity Engine, C#</td>
+    </tr>
+  </tbody>
+</table>
  
 <h2>🛠️ Core Skills</h2>
 
