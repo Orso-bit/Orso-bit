@@ -50,16 +50,52 @@
  
 <h2>🛠️ Core Skills</h2>
 
-<ul>
-  <li><b>UX & Design:</b> Human-Centered Design, UI/UX Prototyping, Wireframing, Design Thinking, Usability Testing</li>
-  <li><b>Prototyping & Tools:</b> Figma, Sketch, SketchUp, Blender</li>
-  <li><b>Mobile Development:</b> Swift, SwiftUI, UIKit, SwiftData</li>
-  <li><b>Game & VR Development:</b> Unity Engine, Vizard</li>
-  <li><b>AI & Cognitive Tech:</b> Core ML, NaturalLanguage, Create ML, Eye-tracking, PsychoPy</li>
-  <li><b>Media & Interaction:</b> AVFoundation, PhotosUI, UserNotifications, Speech</li>
-  <li><b>Collaboration & Tools:</b> Git, GitHub, Xcode, Visual Studio Code</li>
-  <li><b>Languages:</b> C#, Swift, Python, Matlab</li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools / Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎨 UX & Design</td>
+      <td>Human-Centered Design, UI/UX Prototyping, Wireframing, Design Thinking, Usability Testing, A/B Testing, Eye-tracking, User Interviews</td>
+    </tr>
+    <tr>
+      <td>🛠️ Prototyping & Tools</td>
+      <td>Figma, Sketch, SketchUp, Blender</td>
+    </tr>
+    <tr>
+      <td>📱 Mobile Development</td>
+      <td>Swift, SwiftUI, UIKit, SwiftData</td>
+    </tr>
+    <tr>
+      <td>🎮 Game & VR Development</td>
+      <td>Unity Engine, Vizard</td>
+    </tr>
+    <tr>
+      <td>🤖 AI & Cognitive Tech</td>
+      <td>Core ML, NaturalLanguage, Create ML, Eye-tracking, PsychoPy</td>
+    </tr>
+    <tr>
+      <td>🎥 Media & Interaction</td>
+      <td>AVFoundation, PhotosUI, UserNotifications, Speech</td>
+    </tr>
+    <tr>
+      <td>🤝 Collaboration & Tools</td>
+      <td>Git, GitHub, Xcode, Visual Studio Code</td>
+    </tr>
+    <tr>
+      <td>🗣️ Languages</td>
+      <td>C#, Swift, Python, Matlab</td>
+    </tr>
+    <tr>
+      <td>📊 Data Analysis</td>
+      <td>Excel, Google Analytics, Jamovi, SPSS</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2> 🤳 Connect with me:</h2>
 
