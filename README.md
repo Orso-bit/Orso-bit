@@ -99,6 +99,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+<p>🎨 Behance: <a href="https://www.behance.net/giovannidifenza" target="_blank">giovannidifenza</a></p>
 <p>📸 Instagram: <a href="https://www.instagram.com/giannidifenzaa/" target="_blank">giannidifenzaa</a></p>
 <p>💼 LinkedIn: <a href="https://www.linkedin.com/in/giovanni-di-fenza-081873208/" target="_blank">giovanni-di-fenza-081873208</a></p>
 <p>📧 Email: <a href="mailto:giovannijr2000@gmail.com">giovannijr2000@gmail.com</a></p>
