@@ -66,7 +66,7 @@ UX Designer & Developer with an academic background in Human-Computer Interactio
     </tr>
     <tr>
       <td>🛠️ Prototyping & Tools</td>
-      <td>Figma, Sketch, SketchUp, Blender</td>
+      <td>Figma, Sketch, WordPress, SketchUp, Blender</td>
     </tr>
     <tr>
       <td>📱 Mobile Development</td>
@@ -90,7 +90,7 @@ UX Designer & Developer with an academic background in Human-Computer Interactio
     </tr>
     <tr>
       <td>🗣️ Languages</td>
-      <td>C#, Swift, Python, Matlab</td>
+      <td>C#, Swift, Python, Matlab, HTML, CSS</td>
     </tr>
     <tr>
       <td>📊 Data Analysis</td>
