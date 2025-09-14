@@ -46,6 +46,11 @@ UX Designer & Developer with an academic background in Human-Computer Interactio
       <td><a href="https://github.com/Githubense/Molly" target="_blank">Molly's Canvas</a></td>
       <td>Unity Engine, C#</td>
     </tr>
+    <tr>
+      <td>🥽 Virtual Reality</td>
+      <td><a href="https://github.com/Orso-bit/Arachnophobia" target="_blank">Arachnophobia</a></td>
+      <td>Vizard, SketchUp</td>
+    </tr>
   </tbody>
 </table>
 
